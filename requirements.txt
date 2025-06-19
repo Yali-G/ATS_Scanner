@@ -25,3 +25,6 @@ grpcio
 pyparsing
 typing_extensions
 pydantic
+PyMuPDF
+setuptools
+dotenv
